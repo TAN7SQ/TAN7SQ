@@ -26,8 +26,7 @@ Robotics Software · Embedded Vision · ROS2 Perception · State Estimation
 - **边缘端 AI 部署**：YOLO, ONNX, RK / RDK / NVIDIA, FPS / latency / CPU / NPU profiling
 - **工程化交付**：Linux, C++, Python, Git, Shell, Markdown, testable demos and technical docs
 
-我也会使用 **Codex** 和 **OpenCode** 辅助代码阅读、工程重构、调试路径拆解、README / 技术文档整理与测试清单设计，但会以实际运行结果和代码审查来校验 AI 生成内容。
-
+我的个人项目介绍：https://my.feishu.cn/wiki/O8lZwoOpqietcOkYcMlcEXuynpf
 ---
 
 ## Current Focus
